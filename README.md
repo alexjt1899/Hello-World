@@ -1,2 +1,3 @@
 # Hello-World
-lab 25
+
+I am Alex Thompson, a senior in the Kelley School of Business.
